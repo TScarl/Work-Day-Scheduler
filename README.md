@@ -9,7 +9,7 @@ A happy wife leads to a happy life, use the Work Day Scheduler and live the good
 ![Screenshot (15)](https://user-images.githubusercontent.com/123338043/224870082-c75c6942-f953-481c-889f-f0aa98575291.png)
 
 ## Usage Instructions
-Proceed to the following url: ... 
+Proceed to the following url: https://tscarl.github.io/Work-Day-Scheduler/
 insert the tasks you need done for the day in the time slot they need to be done, click the save button for each individual hour, and simply be blown away by how efficient the Work Day Scheduler will make your life and how happy it'll make your wife (and you).
 p.s. If you are the wife, perhaps you should prefill the timeslots and send them to your hubby!
 ## Known Issues
